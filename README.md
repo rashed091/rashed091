@@ -7,9 +7,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rashed091)
 
 **My Itinerary**
-* Working on SPAs using MERN, PERN etc.
-* Contribution to Open Source projects.
-* Getting adept at Data Structures and Algorithms
+* Working on SPAs using MERN stack.
+* Working on developing go lang based backend (microservices).
 
 **Languages**
 
