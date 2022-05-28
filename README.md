@@ -8,7 +8,7 @@
 
 **My Itinerary**
 * Working on SPAs using MERN stack.
-* Working on developing go lang based backend (microservices).
+* Exploring and developing on developing go lang based backend (microservices).
 
 **Languages**
 
