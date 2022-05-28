@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-**I am a Software Developer from India. Welcome to my profile.
-I am an avid learner and am taking the next step by implementing my learnings.**
+**I am a Software Developer from Bangladesh. Welcome to my profile. Currently focusing on learning and developing distributed system and everything related with software architecture best practices.**
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
