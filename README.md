@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
-<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="35" height="35" />
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
