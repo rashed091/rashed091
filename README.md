@@ -32,7 +32,7 @@
  -->
 
 
-<h3>🚀 Some of the tools I use and familiar with</h3>
+<h3> Tools I am use and familiar with</h3>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="35" height="35" />
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="35" height="35" />
