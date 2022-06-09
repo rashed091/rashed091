@@ -2,8 +2,6 @@
 
 **Hi, I am a Software Developer from Bangladesh. Welcome to my profile. Currently focusing on learning and developing distributed system and everything related with software architecture best practices.**
 
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rashed091)
 
 **My Itinerary**
