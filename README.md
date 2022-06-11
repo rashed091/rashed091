@@ -2,9 +2,8 @@
 
 **Hi, I am a Software Developer from Bangladesh. Welcome to my profile. Currently focusing on learning and developing distributed system and everything related with software architecture best practices.**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rashed091)
-
-**My Itinerary**
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rashed091) -->
+<!-- **My Itinerary** -->
 * Working on SPAs using MERN stack.
 * Exploring and developing go lang based backend (microservices).
 
