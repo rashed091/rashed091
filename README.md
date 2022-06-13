@@ -28,7 +28,7 @@
 <img alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
  -->
 
-
+<center>
 <h3>Tools I use and familiar with</h3>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="35" height="35" />
@@ -48,3 +48,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" />
 </p>
+ </center>
