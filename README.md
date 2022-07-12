@@ -31,8 +31,8 @@
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  <a href="https://reactjs.org/">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
    <a href="https://go.dev/">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
