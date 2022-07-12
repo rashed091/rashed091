@@ -40,9 +40,6 @@
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
   </a>
