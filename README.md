@@ -28,6 +28,18 @@
 </p> -->
 
 <p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" style="vertical-align:top; margin:4px;">
+</a>
+<a href="https://www.nginx.com/">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" style="vertical-align:top; margin:4px;">
+</a>
+<a href="https://nodejs.org/en/">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" style="vertical-align:top; margin:4px;">
+</a>
+<a href="https://dapr.io/">
+  <img src="https://www.vectorlogo.zone/logos/daprio/daprio-ar21.svg" alt="dapr" style="vertical-align:top; margin:4px;">
+</a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
