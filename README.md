@@ -7,25 +7,6 @@
 * Working on SPAs using MERN stack.
 * Exploring and developing go lang based backend (microservices).
 
-<!-- <h3>Tools I use and familiar with</h3>
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="35" height="35" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="35" height="35" />
-<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" />
-</p> -->
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -79,7 +60,7 @@
    <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
-     <a href="https://www.openapis.org/">
+   <a href="https://www.openapis.org/">
     <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="openapis" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.jaegertracing.io/">
