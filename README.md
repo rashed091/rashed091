@@ -75,9 +75,21 @@
   </a>
   <a href="https://redis.io/">
   <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" style="vertical-align:top; margin:4px;">
-</a>
+  </a>
    <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>
+     <a href="https://www.openapis.org/">
+    <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="openapis" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.jaegertracing.io/">
+    <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaegertracing" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://prometheus.io/">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://grafana.com/">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" style="vertical-align:top; margin:4px">
   </a>
 </p>
 <br/>
