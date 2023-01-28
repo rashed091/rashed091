@@ -74,3 +74,25 @@
   </a>
 </p>
 <br/>
+
+<!-- ### Hi there 👋 I'm Greg 👨🏻‍💻 -->
+
+<!-- I write on technology at [soundbytes.dev][my blog], and you can also find me on [LinkedIn]. -->
+
+<!-- ### 🌱 Currently absorbing more on
+- Cloud platforms (AWS)
+- Optimising use of front-end frameworks (React, Gatsby, TypeScript, Nodejs)
+- Blockchain and Smart Contracts
+
+### 🏃🏻‍♂️ Busy working on
+- Digital transformations
+- Leading engineering teams
+- Architecting systems for resilience and agility
+- Stakeholder management
+
+### 🔭 An ongoing interest in
+- Open source technology
+- Experimentation and building things -->
+<!-- 
+[my blog]: https://www.soundbytes.dev
+[linkedin]: https://www.linkedin.com/in/gregorybsmith/🏃🏻‍♂️ -->
