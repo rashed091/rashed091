@@ -1,11 +1,24 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-**Hi, I am a Software Developer from Bangladesh. Welcome to my profile. Currently focusing on learning and developing distributed system and everything related with software architecture best practices.**
+### Hi there 👋 I'm Rashed 👨🏻‍💻
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=rashed091) -->
-<!-- **My Itinerary** -->
-* Working on SPAs using MERN stack.
-* Exploring and developing go lang based backend (microservices).
+Working in Optimizely as a software engineer.
+
+### 🌱 Currently absorbing more on
+- Cloud platforms (AWS)
+- Golang
+- Working on SPAs using MERN stack.
+- Optimising use of front-end frameworks (React, TypeScript, Nodejs)
+
+### 🏃🏻‍♂️ Busy working on
+- Digital transformations
+- Developing distributed system
+- Software architecture best practices.
+
+### 🔭 An ongoing interest in
+- Open source technology
+- Exploring and developing Golang based backend (microservices).
+- Experimentation and building things
 
 
 <p align="center">
@@ -74,25 +87,3 @@
   </a>
 </p>
 <br/>
-
-<!-- ### Hi there 👋 I'm Greg 👨🏻‍💻 -->
-
-<!-- I write on technology at [soundbytes.dev][my blog], and you can also find me on [LinkedIn]. -->
-
-<!-- ### 🌱 Currently absorbing more on
-- Cloud platforms (AWS)
-- Optimising use of front-end frameworks (React, Gatsby, TypeScript, Nodejs)
-- Blockchain and Smart Contracts
-
-### 🏃🏻‍♂️ Busy working on
-- Digital transformations
-- Leading engineering teams
-- Architecting systems for resilience and agility
-- Stakeholder management
-
-### 🔭 An ongoing interest in
-- Open source technology
-- Experimentation and building things -->
-<!-- 
-[my blog]: https://www.soundbytes.dev
-[linkedin]: https://www.linkedin.com/in/gregorybsmith/🏃🏻‍♂️ -->
