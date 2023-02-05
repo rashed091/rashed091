@@ -7,12 +7,12 @@ Working in Optimizely as a software engineer.
 ### 🌱 Currently absorbing more on
 - Cloud platforms (AWS)
 - Golang
-- Working on SPAs using MERN stack.
+
 - Optimising use of front-end frameworks (React, TypeScript, Nodejs)
 
 ### 🏃🏻‍♂️ Busy working on
-- Digital transformations
-- Developing distributed system
+- Working on SPAs using MERN stack.
+- Developing distributed system.
 - Software architecture best practices.
 
 ### 🔭 An ongoing interest in
