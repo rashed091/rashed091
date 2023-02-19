@@ -1,26 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
-### Hi there 👋 I'm Rashed 👨🏻‍💻
-
-Working in Optimizely as a software engineer.
-
-### 🌱 Currently absorbing more on
-- Cloud platforms (AWS)
-- Golang
-
-- Optimising use of front-end frameworks (React, TypeScript, Nodejs)
-
-### 🏃🏻‍♂️ Busy working on
-- Working on SPAs using MERN stack.
-- Developing distributed system.
-- Software architecture best practices.
-
-### 🔭 An ongoing interest in
-- Open source technology
-- Exploring and developing Golang based backend (microservices).
-- Experimentation and building things
-
-
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" style="vertical-align:top; margin:4px;">
@@ -87,3 +65,24 @@ Working in Optimizely as a software engineer.
   </a>
 </p>
 <br/>
+
+
+### Hi there 👋 I'm Rashed 👨🏻‍💻
+
+Working in Optimizely as a software engineer.
+
+### 🌱 Currently absorbing more on
+- Cloud platforms (AWS)
+- Golang
+
+- Optimising use of front-end frameworks (React, TypeScript, Nodejs)
+
+### 🏃🏻‍♂️ Busy working on
+- Working on SPAs using MERN stack.
+- Developing distributed system.
+- Software architecture best practices.
+
+### 🔭 An ongoing interest in
+- Open source technology
+- Exploring and developing Golang based backend (microservices).
+- Experimentation and building things
