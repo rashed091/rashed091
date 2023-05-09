@@ -1,5 +1,8 @@
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 <p align="center">
+  <a href="https://www.rust-lang.org/learn">
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" style="vertical-align:top; margin:4px;">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" style="vertical-align:top; margin:4px;">
 </a>
