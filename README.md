@@ -79,9 +79,13 @@ Working in Optimizely as a software engineer.
 
 ### 🌱 Currently absorbing more on
 - Cloud platforms (AWS)
-- Golang
-
-- Optimising use of front-end frameworks (React, TypeScript, Nodejs)
+- Snowflake
+- Kubernets
+- Docker
+- ArgoCD
+- Airflow
+- dbt
+- Building data warehouse which can scale
 
 ### 🏃🏻‍♂️ Busy working on
 - Working on SPAs using MERN stack.
