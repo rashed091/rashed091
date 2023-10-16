@@ -66,6 +66,9 @@
   <a href="https://grafana.com/">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://snowflake.com/">
+    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="snowflake" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 <br/>
 
