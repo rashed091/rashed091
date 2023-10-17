@@ -63,9 +63,6 @@
   <a href="https://spark.apache.org/">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache_spark" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://spark.apache.org/">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache_spark" style="vertical-align:top; margin:4px">
-  </a>
 </p>
 <br/>
 
