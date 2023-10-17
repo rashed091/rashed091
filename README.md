@@ -69,7 +69,7 @@
 
 ### Hi there 👋 I'm Rashed 👨🏻‍💻
 
-Working in Optimizely as a software engineer.
+Working in Optimizely as a Data Engineer, Team Lead.
 
 ### 🌱 Currently absorbing more on
 - Cloud platforms (AWS)
