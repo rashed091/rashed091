@@ -57,6 +57,15 @@
   <a href="https://snowflake.com/">
     <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="snowflake" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://argoproj.github.io/">
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="argoprojio" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://spark.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache_spark" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://spark.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache_spark" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 <br/>
 
@@ -73,14 +82,13 @@ Working in Optimizely as a software engineer.
 - ArgoCD
 - Airflow
 - dbt
-- Building data warehouse which can scale
 
 ### 🏃🏻‍♂️ Busy working on
-- Working on SPAs using MERN stack.
+- Building data warehouse which can scale
 - Developing distributed system.
 - Software architecture best practices.
 
 ### 🔭 An ongoing interest in
 - Open source technology
-- Exploring and developing Golang based backend (microservices).
+- Exploring and developing rust based backend.
 - Experimentation and building things
