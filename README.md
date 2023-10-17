@@ -78,7 +78,7 @@ Working in Optimizely as a software engineer.
 - Docker
 - ArgoCD
 - Airflow
-- dbt
+- DBT
 
 ### 🏃🏻‍♂️ Busy working on
 - Building data warehouse which can scale
