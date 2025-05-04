@@ -69,21 +69,15 @@
 
 ### Hi there 👋 I'm Rashed 👨🏻‍💻
 
-### 🌱 Currently absorbing more on
+### 🌱 Actively learning and working on
 - Cloud platforms (AWS)
 - Snowflake
 - Kubernets
-- Docker
 - ArgoCD
-- Airflow
 - DBT
-
-### 🏃🏻‍♂️ Busy working on
-- Building data warehouse which can scale
-- Developing distributed system.
-- Software architecture best practices.
+- Rust
 
 ### 🔭 An ongoing interest in
-- Open source technology
 - Exploring and developing rust based backend.
-- Experimentation and building things
+- Experimentation and building data warehouse which can scale
+- Software architecture best practices.
