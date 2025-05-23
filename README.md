@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Rashed — Full-Stack Systems Architect & Rustacean 🦀
 
-I'm a **full-stack engineer** with a backend brain wired in **Rust** and a deployment soul running on **Kubernetes**. I design and build production-grade systems that go beyond microservices — I **orchestrate** scalable, observable, and resilient platforms using:
+I'm a **full-stack engineer** with a backend brain wired in **Typescript**, **Python**, and **Rust** and a deployment soul running on **Kubernetes**. I design and build production-grade systems that go beyond microservices — I **orchestrate** scalable, observable, and resilient platforms using:
 
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 <p align="center">
@@ -19,9 +19,6 @@ I'm a **full-stack engineer** with a backend brain wired in **Rust** and a deplo
 <a href="https://nodejs.org/en/">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" style="vertical-align:top; margin:4px;">
 </a>
-   <a href="https://go.dev/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://www.postgresql.org/">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" style="vertical-align:top; margin:4px;">
 </a>
@@ -33,9 +30,6 @@ I'm a **full-stack engineer** with a backend brain wired in **Rust** and a deplo
   </a>
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://istio.io">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
