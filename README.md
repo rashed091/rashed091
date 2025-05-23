@@ -87,15 +87,6 @@ I'm a **full-stack engineer** with a backend brain wired in **Rust** and a deplo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasheduzzaman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheduzzaman&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🛰️ Let’s Collaborate
 
 I'm always exploring new systems ideas, distributed schedulers, DSLs in Rust, and interactive CLI/GUI tooling.  
