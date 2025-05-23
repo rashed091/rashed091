@@ -1,3 +1,7 @@
+# 👋 Hey there, I’m Rashed — Full-Stack Systems Architect & Rustacean 🦀
+
+I'm a **full-stack engineer** with a backend brain wired in **Rust** and a deployment soul running on **Kubernetes**. I design and build production-grade systems that go beyond microservices — I **orchestrate** scalable, observable, and resilient platforms using:
+
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png) -->
 <p align="center">
   <a href="https://www.rust-lang.org/learn">
@@ -65,34 +69,6 @@
   </a>
 </p>
 <br/>
-
-
-# 👋 Hey there, I’m Rashed — Full-Stack Systems Architect & Rustacean 🦀
-
-I'm a **full-stack engineer** with a backend brain wired in **Rust** and a deployment soul running on **Kubernetes**. I design and build production-grade systems that go beyond microservices — I **orchestrate** scalable, observable, and resilient platforms using:
-
-## 🛠️ Tech I Work With
-
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-![Salvo](https://img.shields.io/badge/Salvo-4B275F?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4488CC?style=for-the-badge&logo=grpc&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Skaffold](https://img.shields.io/badge/Skaffold-F5F5F5?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-008FC7?style=for-the-badge&logo=argo&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Iced](https://img.shields.io/badge/Iced-4E8D7C?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-F53?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
 
