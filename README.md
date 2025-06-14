@@ -67,15 +67,10 @@ I'm a **full-stack engineer** with a backend brain wired in **Typescript**, **Py
 ---
 
 ## 🧠 What I Build
-
-- ⚙️ **Async Task Frameworks** with status tracking, retries, and dashboards  
-- 📦 **Webhook Delivery Systems** with circuit breakers, caching, observability  
-- 🌍 **Terminal Web Browsers & UI Tools** using `ratatui`, `iced`, and Rust-native rendering  
-- 🛰️ **Simulators & Schedulers** — building event-driven, high-throughput job systems  
-- 📊 **Monitoring + Observability Dashboards** with PromQL, Grafana & OpenTelemetry  
-- 🧪 **CI/CD & GitOps Pipelines** with ArgoCD, Skaffold, and approval-based rollouts  
 - 🎨 **Modern Frontend UIs** using **TypeScript**, **JavaScript**, and **React** — from real-time dashboards to dynamic widgets and system admin panels  
 - 🧮 **Data Engineering Pipelines** using **Snowflake**, **dbt**, and **SQL optimization** for analytics, schema evolution, RBAC, task graphs, and audit systems
+- 🧪 **CI/CD & GitOps Pipelines** with ArgoCD, Skaffold, and approval-based rollouts
+- 📊 **Monitoring + Observability Dashboards** with PromQL, Grafana & OpenTelemetry    
 
 > 💡 I don’t just ship code — I **engineer the whole fleet.**
 
@@ -83,5 +78,4 @@ I'm a **full-stack engineer** with a backend brain wired in **Typescript**, **Py
 
 ## 🛰️ Let’s Collaborate
 
-I'm always exploring new systems ideas, distributed schedulers, DSLs in Rust, and interactive CLI/GUI tooling.  
-Got a project idea or collaboration? Let’s connect!
+I'm always exploring new systems ideas, distributed schedulers, DSLs in Rust, and interactive CLI/GUI tooling. Got a project idea or collaboration? Let’s connect!
