@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Rashed — Full-Stack Systems Architect & Rustacean 🦀
+# 👋 Hey there, I’m Rashed — A software engineer 🦀
 
 I'm a **full-stack engineer** with a backend brain wired in **Typescript**, **Python**, and **Rust** and a deployment soul running on **Kubernetes**. I design and build production-grade systems that go beyond microservices — I **orchestrate** scalable, observable, and resilient platforms using:
 
